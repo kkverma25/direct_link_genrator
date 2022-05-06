@@ -1,5 +1,5 @@
 {
-    "name": "TG Direct Link Generator",
+    "name": "Direct Link Generator",
     "description": "A Telegram Bot To Get Direct Links Of Telegram Files.",
     "logo": "https://telegra.ph/file/4d124400b985b2fe6ee1c.jpg",
     "keywords": [
@@ -9,7 +9,7 @@
         "python",
         "techzbots"        
       ],
-    "repository": "https://github.com/TechShreyash/TG-Direct-Link-Generator",
+    "repository": "https://github.com/kkverma25/direct_link_genrator",
     "env": {        
         "APP_NAME": {
             "description": "Copy-Paste the app name that you just typed above."
