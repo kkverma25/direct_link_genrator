@@ -21,11 +21,11 @@ class Language(object):
 
 <b><i><u>Warning 🚸</u></i></b>
 <b>🔞 Pron Contents Leads To Permanenet Ban You.</b></b>\n
-<i>Contact Developer Or Report Bugs</i> <b>: <a href='https://t.me/TechZBots_Support'>[ Click Here ]</a></b>"""
+<i>Contact Developer Or Report Bugs</i> <b>: <a href='https://t.me/D_E_V_l_L'>[ Click Here ]</a></b>"""
 
         ABOUT_TEXT = """
-<b>⚜ My Name : TG Direct Link Generator</b>\n
-<b>⚜ Username : @TGDirectLinkGenBot</b>\n
+<b>⚜ My Name : Tg-link generator</b>\n
+<b>⚜ Username : @Tg_link_generator_bot</b>\n
 <b>🔸Version : 1.0</b>\n
 <b>🔹Last Updated : [ 04-Apr-22 ]</b>
 """
@@ -37,7 +37,7 @@ class Language(object):
 <b>📥 Download :</b> {}\n
 <b>🖥 Watch :</b> {}"""
 
-        ban_text="__Sᴏʀʀʏ Sɪʀ, Yᴏᴜ ᴀʀᴇ Bᴀɴɴᴇᴅ ᴛᴏ ᴜsᴇ ᴍᴇ.__\n\n**[Cᴏɴᴛᴀᴄᴛ Dᴇᴠᴇʟᴏᴘᴇʀ](https://t.me/TechZBots_Support) Tʜᴇʏ Wɪʟʟ Hᴇʟᴘ Yᴏᴜ**"
+        ban_text="__Sᴏʀʀʏ Sɪʀ, Yᴏᴜ ᴀʀᴇ Bᴀɴɴᴇᴅ ᴛᴏ ᴜsᴇ ᴍᴇ.__\n\n**[Cᴏɴᴛᴀᴄᴛ Dᴇᴠᴇʟᴏᴘᴇʀ](https://t.me/D_E_V_l_L) Tʜᴇʏ Wɪʟʟ Hᴇʟᴘ Yᴏᴜ**"
 
 # ------------------------------------------------------------------------------
 
@@ -47,8 +47,8 @@ class BUTTON(object):
         InlineKeyboardButton('Help', callback_data='help'),
         InlineKeyboardButton('About', callback_data='about')
         ],        
-        [InlineKeyboardButton("Updates Channel", url='https://t.me/TechZBots'),
-        InlineKeyboardButton("Repo", url='https://github.com/TechShreyash/TG-Direct-Link-Generator')]
+        [InlineKeyboardButton("Updates Channel", url='https://t.me/About_EVERETT'),
+        InlineKeyboardButton("Repo", url='https://github.com/kkverma25/direct_link_genrator')]
         ]
     )
     HELP_BUTTONS = InlineKeyboardMarkup(
