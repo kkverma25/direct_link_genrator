@@ -1,11 +1,11 @@
 <h1 align="center">TG Direct Link Generator</h3>
 <p align="center">
-  <a href="https://github.com/TechShreyash/TG-Direct-Link-Generator">
-    <img src="https://socialify.git.ci/TechShreyash/TG-Direct-Link-Generator/image?description=1&font=Source%20Code%20Pro&forks=1&issues=1&pattern=Charlie%20Brown&pulls=1&stargazers=1&theme=Dark" alt="TG-Direct-Link-Generator" width="640" height="320" />
+  <a href="https://github.com/kkverma25/direct_link_genrator">
+    <img src="https://socialify.git.ci/kkverma25/direct_link_genrator/image?description=1&font=Source%20Code%20Pro&forks=1&issues=1&pattern=Charlie%20Brown&pulls=1&stargazers=1&theme=Dark" alt="TG-Direct-Link-Generator" width="640" height="320" />
   </a>
   <p align="center">
     A Telegram Bot To Get Direct Links Of Telegram Files.<br/>
-    <a href="http://telegram.me/TGDirectLinkGenBot"><strong>Demo Bot</strong></a>
+    <a href="http://telegram.me/Tg_link_generator_bot"><strong>Demo Bot</strong></a>
     <br />    
   </p>
 </p>
@@ -41,7 +41,7 @@
 ## About This Bot
 
 <p align="center">
-    <a herf="https://github.com/TechShreyash/TG-Direct-Link-Generator">
+    <a herf="https://github.com/kkverma25/direct_link_genrator">
         <img src="https://telegra.ph/file/4d124400b985b2fe6ee1c.jpg" height="100" width="100" alt="Telegram Logo">
     </a>
 </p>
