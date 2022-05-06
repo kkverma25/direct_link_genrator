@@ -42,7 +42,7 @@
 
 <p align="center">
     <a herf="https://github.com/kkverma25/direct_link_genrator">
-        <img src="https://telegra.ph/file/4d124400b985b2fe6ee1c.jpg" height="100" width="100" alt="Telegram Logo">
+        <img src="https://telegra.ph/file/eae2c2f5127a86eba9a62.jpg" height="100" width="100" alt="Telegram Logo">
     </a>
 </p>
 <p align='center'>
